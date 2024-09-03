@@ -28,16 +28,7 @@ public class Login_Activity extends AppCompatActivity {
                 startActivity(new Intent(Login_Activity.this, Sign_up_Activity.class)));
 
         login();
-        ed();
-    }
 
-    private void ed() {
-         
-                Toast.makeText(Login_Activity.this, "New Changes are added through github", Toast.LENGTH_SHORT).show();
-                        Toast.makeText(Login_Activity.this, "New Changes are added through github", Toast.LENGTH_SHORT).show();
-
-
-        
     }
 
     private void login() {
