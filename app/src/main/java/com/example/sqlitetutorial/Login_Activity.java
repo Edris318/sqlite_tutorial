@@ -2,7 +2,6 @@ package com.example.sqlitetutorial;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -29,6 +28,10 @@ public class Login_Activity extends AppCompatActivity {
                 startActivity(new Intent(Login_Activity.this, Sign_up_Activity.class)));
 
         login();
+        ed();
+    }
+
+    private void ed() {
     }
 
     private void login() {
