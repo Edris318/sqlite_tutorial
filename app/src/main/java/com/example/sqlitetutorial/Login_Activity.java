@@ -28,7 +28,7 @@ public class Login_Activity extends AppCompatActivity {
         binding.btnSignLogin.setOnClickListener(v ->
                 startActivity(new Intent(Login_Activity.this, Sign_up_Activity.class)));
 
-        login();
+        //login();
     }
 
     private void login() {
