@@ -34,6 +34,8 @@ public class Login_Activity extends AppCompatActivity {
     private void ed() {
          
                 Toast.makeText(Login_Activity.this, "New Changes are added through github", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(Login_Activity.this, "New Changes are added through github", Toast.LENGTH_SHORT).show();
+
 
         
     }
