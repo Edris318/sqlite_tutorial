@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SqliteTutorial" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryVariant">#3F51B5</item>
+        <item name="android:statusBarColor">#2196F3</item>
+
+    </style>
+
+    <style name="Theme.SqliteTutorial" parent="Base.Theme.SqliteTutorial" />
+</resources>
